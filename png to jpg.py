@@ -18,8 +18,5 @@ def read_directory(directory_name):
 
 file = input('filename(D:\\\\.....):')
 read_directory(file)
-# 轉換JPG
-'''
-im = Image.open('D:\\game\\gall\\mega\\足\\aimai_pet\\001.png')
-im.save('D:\\game\\gall\\mega\\足\\aimai_pet\\001jpg.jpg')
-'''
+
+
